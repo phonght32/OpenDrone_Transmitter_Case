@@ -1,0 +1,3 @@
+[submodule "3D-Lib"]
+	path = 3D-Lib
+	url = git@github.com:phonght32/3D-Lib.git
